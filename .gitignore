@@ -1,0 +1,14 @@
+# Visual Studio temporary files
+.vs/
+
+# Unreal Engine temporary folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Project files
+*.sln
+*.vcxproj
+*.filters
